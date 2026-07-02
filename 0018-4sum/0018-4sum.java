@@ -2,27 +2,35 @@ class Solution {
     public List<List<Integer>> fourSum(int[] a, int target) {
         int n=a.length;
         Arrays.sort(a);
-       
-        Set<List<Integer>>ansSet = new HashSet<>();
-
+         List<List<Integer>> ans = new ArrayList<>();
         for(int i=0;i<n-3;i++){
+            if(i>0 && a[i]==a[i-1]) continue;
             for(int j=i+1;j<n-2;j++){
-                HashSet<Long>set = new HashSet<>();
-                for(int k=j+1;k<n;k++){
-                    long needed = (long)target - a[i]-a[j]-a[k];
-                    if(set.contains(needed)){
-                      List<Integer>ls = Arrays.asList(a[i],a[j],a[k],(int)needed);
-                      Collections.sort(ls);
-                      ansSet.add(ls);
+                if(j>i+1 && a[j]==a[j-1]) continue;
+                int left=j+1;
+                int right = n-1;
+                while(left<right){
+                     long sum = (long)a[i]+a[j]+a[left]+a[right];
+                    if(sum==target){
+                        ans.add(Arrays.asList(a[i],a[j],a[left],a[right]));
+                        left++;
+                        right--;
+                        while (left < right && a[left] == a[left - 1])
+                            left++;
+
+                        
+                        while (left < right && a[right] == a[right + 1])
+                            right--;
                     }
-                    set.add((long)a[k]);
-                    
+                    else if(sum<target){
+                        left++;
+                    }
+                    else{
+                        right--;
+              }
                 }
             }
         }
-       
-        
-        return new ArrayList<>(ansSet);
-
+        return ans;
     }
 }
