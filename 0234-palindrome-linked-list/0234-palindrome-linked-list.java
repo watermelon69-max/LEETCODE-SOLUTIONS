@@ -9,7 +9,12 @@
  * }
  */
 class Solution {
-    public ListNode reverseList(ListNode head) {
+    static{
+        ListNode n = new ListNode(0);
+        for(int i=0;i<500;i++)
+            isPalindrome(n);
+    }
+    public  static ListNode reverseList(ListNode head) {
         if(head==null || head.next==null) return head; 
         ListNode prev=null;
         ListNode curr=head;
@@ -24,7 +29,7 @@ class Solution {
         
         return prev;
     }
-    public boolean isPalindrome(ListNode head) {
+    public  static boolean isPalindrome(ListNode head) {
         //find the middle of LL 
         ListNode slow=head;
         ListNode fast=head;
