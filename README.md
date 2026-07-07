@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0018-4sum) |
+| [0287-find-the-duplicate-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -48,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
