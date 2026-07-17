@@ -10,6 +10,7 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
+        if (head == null || head.next == null) return;
         //for finding the middle of the linked list 
         ListNode slow=head;
         ListNode fast=head;
