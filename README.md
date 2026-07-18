@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0018-4sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
