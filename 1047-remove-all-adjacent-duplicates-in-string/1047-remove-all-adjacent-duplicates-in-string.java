@@ -16,11 +16,10 @@ class Solution {
 
         }
 
-        while(!st.isEmpty()){
-            res.append(st.peek());
-            st.pop();
+        for(char a:st){
+            res.append(a);
         }
-        return res.reverse().toString();
+        return res.toString();
         
 
 
