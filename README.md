@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Number Theory
 |  |
 | ------- |
