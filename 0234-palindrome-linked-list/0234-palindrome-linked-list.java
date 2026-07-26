@@ -9,13 +9,8 @@
  * }
  */
 class Solution {
-    static{
-        ListNode n = new ListNode(0);
-        for(int i=0;i<500;i++)
-            isPalindrome(n);
-    }
-    public  static ListNode reverseList(ListNode head) {
-        if(head==null || head.next==null) return head; 
+    public ListNode reverse(ListNode head){
+        if(head==null|| head.next==null) return head;
         ListNode prev=null;
         ListNode curr=head;
         ListNode next=head.next;
@@ -23,32 +18,30 @@ class Solution {
             curr.next=prev;
             prev=curr;
             curr=next;
-            if(next!=null)
-            next=next.next;
+            if(next!=null){
+                next=next.next;
+            }
+            
         }
-        
         return prev;
     }
-    public  static boolean isPalindrome(ListNode head) {
-        //find the middle of LL 
+    public boolean isPalindrome(ListNode head) {
+        //first find the middle of the linked list 
         ListNode slow=head;
         ListNode fast=head;
         while(fast!=null && fast.next!=null){
             slow=slow.next;
             fast=fast.next.next;
         }
-
-        //now reverse the list from 
-        ListNode secondHalf=reverseList(slow);
+        ListNode secondHalf=reverse(slow);
         slow=head;
         while(secondHalf!=null){
-                if(slow.val!=secondHalf.val){
-                    return false;
-                }
-                slow=slow.next;
-                secondHalf=secondHalf.next;
+            if(slow.val!=secondHalf.val){
+                return false;
+            }
+            slow=slow.next;
+            secondHalf=secondHalf.next;
         }
         return true;
-
     }
 }
