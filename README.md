@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0018-4sum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0735-asteroid-collision) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
