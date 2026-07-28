@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
