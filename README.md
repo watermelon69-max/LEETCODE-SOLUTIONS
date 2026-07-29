@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
