@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -170,5 +171,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
