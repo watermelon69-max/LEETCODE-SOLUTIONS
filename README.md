@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
@@ -180,4 +181,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0216-combination-sum-iii) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
