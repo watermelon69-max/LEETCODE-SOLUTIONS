@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3731-find-missing-elements](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0018-4sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
+| [3731-find-missing-elements](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Recursion
 |  |
 | ------- |
