@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 ## DP on Trees
 |  |
 | ------- |
@@ -316,4 +318,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
