@@ -3,7 +3,8 @@ class Solution {
         if(n<=1) return n;
         if(dp[n]!=-1) return dp[n];
 
-        return solve(n-1,dp)+solve(n-2,dp);
+        dp[n]= solve(n-1,dp)+solve(n-2,dp);
+        return dp[n];
     }
     public int fib(int n) {
         int dp[]=new int[n+1];
