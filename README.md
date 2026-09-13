@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
+| [2652-sum-multiples](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/2652-sum-multiples) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
