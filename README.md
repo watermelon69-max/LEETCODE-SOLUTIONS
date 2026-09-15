@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0216-combination-sum-iii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -344,4 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0785-is-graph-bipartite) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
