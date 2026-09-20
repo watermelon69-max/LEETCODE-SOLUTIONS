@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/watermelon69-max/LEETCODE-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
